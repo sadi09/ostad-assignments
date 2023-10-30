@@ -1,0 +1,12 @@
+{
+    "amin@g.c": {
+        "username": "amin",
+        "password": "81dc9bdb52d04dc20036dbd8313ed055",
+        "role": "admin"
+    },
+    "hasin@g.c": {
+        "username": "hasin",
+        "password": "81dc9bdb52d04dc20036dbd8313ed055",
+        "role": "user"
+    }
+}
